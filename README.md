@@ -102,7 +102,7 @@ In your source files, include the header:
 ## 🔎 Examples
 
 ```c
-#include "ft_printf.h"
+#include "includes/ft_printf.h"
 
 int	main(void)
 {
