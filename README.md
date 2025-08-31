@@ -18,7 +18,7 @@
 ## 📖 Table of Contents
 - [Description](#-description)
 - [Features](#-features)
-- [Installation](#-installation)
+- [Installation](#%EF%B8%8F-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Examples](#-examples)
@@ -59,7 +59,7 @@ Requirements:
 
 ```bash
 git clone https://github.com/LogUmi/ft_printf.git
-cd libft
+cd ft_printf
 make
 ```
 This will generate a `libftprintf.a` file.
