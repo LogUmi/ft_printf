@@ -1,5 +1,4 @@
 NAME = 	libftprintf.a
-HDRS = 	ft_printf.h
 DIRSR =	srcs/
 DIROB =	objs/
 DIRLI =	includes/
